@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1658666073 source:c:\users\bartl\desktop\generator\personaldatagenerator\src\openfiles.cpp
+	"openFiles.h"
+
+1658664719 c:\users\bartl\desktop\generator\personaldatagenerator\include\openfiles.h
+
+1658760096 source:c:\users\bartl\desktop\generator\personaldatagenerator\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<locale.h>
+	<cctype>
+	<algorithm>
+	<string>
+	<sstream>
+	<cmath>
+	"logic.h"
+
+1658812208 c:\users\bartl\desktop\generator\personaldatagenerator\include\logic.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<locale.h>
+	<cctype>
+	<algorithm>
+	<string>
+	<sstream>
+	<cmath>
+
+1658812821 source:c:\users\bartl\desktop\generator\personaldatagenerator\src\logic.cpp
+	"logic.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<locale.h>
+	<cctype>
+	<algorithm>
+	<string>
+	<sstream>
+	<cmath>
+
